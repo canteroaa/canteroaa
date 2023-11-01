@@ -22,7 +22,7 @@
 
 
 
-- 💻 &nbsp; Python | Java | C | MySQL | Oracle | PostgreSQL
+- 💻 &nbsp; Python | Java | PHP | C | MySQL | Oracle | PostgreSQL
 
 - 🌐 &nbsp; HTML | CSS | JavaScript | Tailwind | VueJS | Laravel
 
