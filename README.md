@@ -71,13 +71,4 @@
 
 
 
-  <img src="https://media.giphy.com/media/dxn6fRlTIShoeBr69N/giphy.gif" width="30">
-
-
-
-
-
-<hr>
-
-
 
