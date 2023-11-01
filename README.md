@@ -1,3 +1,5 @@
+![1696168329559](https://github.com/canteroaa/canteroaa/assets/111013326/3849b1bf-eacb-47c6-8aa5-bc09de0bba53)
+
 ### Hi there 👋<h2> I'm Aarón</h2>
 
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
