@@ -10,7 +10,7 @@
 
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
 
-- 🎓 &nbsp; Studying Computer Science.
+- 🎓 &nbsp; Computer Science.
 
 - 🌱 &nbsp; Always exploring new technologies.
 
